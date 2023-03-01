@@ -9,5 +9,8 @@ what are the tools you used to create it?
 
 wireframe
 
-![home-page]()
+![home-page](Home%20page.PNG)
+![Products page](Products%20page.PNG)
+![Company](Company.PNG)
+![More](More.PNG)
 
